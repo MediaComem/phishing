@@ -1,0 +1,28 @@
+{
+  "name": "@alphahydrae/exploit-phishing",
+  "version": "1.0.0",
+  "description": "A dynamic phishing page to demonstrate web vulnerabilities such as CSRF",
+  "private": true,
+  "scripts": {
+    "lint": "prettier --check .",
+    "lint:write": "prettier --write .",
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlphaHydrae/exploit-phishing.git"
+  },
+  "keywords": [
+    "phishing",
+    "csrf"
+  ],
+  "author": "Simon Oulevay <contact@alphahydrae.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlphaHydrae/exploit-phishing/issues"
+  },
+  "homepage": "https://github.com/AlphaHydrae/exploit-phishing#readme",
+  "dependencies": {
+    "prettier": "^2.4.1"
+  }
+}
