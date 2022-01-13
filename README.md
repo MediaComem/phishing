@@ -5,9 +5,9 @@ A dynamic phishing page to demonstrate web vulnerabilities such as
 
 ## Usage
 
-The phishing website consists of the `index.html`, `script.js` and `script.css`
-files. You can serve these as static content with any web server. You can also
-simply open the `index.html` file locally.
+The phishing website consists of the `index.html`, `avatar.svg`, `script.js` and
+`script.css` files. You can serve these as static content with any web server.
+You can also simply open the `index.html` file locally.
 
 Configure the page with any combination of the following query parameters:
 
