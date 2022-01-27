@@ -1,5 +1,5 @@
 {
-  "name": "@alphahydrae/exploit-phishing",
+  "name": "exploit-phishing",
   "version": "1.0.0",
   "description": "A dynamic phishing page to demonstrate web vulnerabilities such as CSRF",
   "private": true,
@@ -10,18 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlphaHydrae/exploit-phishing.git"
+    "url": "git+https://github.com/MediaComem/exploit-phishing.git"
   },
   "keywords": [
     "phishing",
     "csrf"
   ],
-  "author": "Simon Oulevay <contact@alphahydrae.com>",
+  "author": "Simon Oulevay <simon.oulevay@heig-vd.ch>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AlphaHydrae/exploit-phishing/issues"
+    "url": "https://github.com/MediaComem/exploit-phishing/issues"
   },
-  "homepage": "https://github.com/AlphaHydrae/exploit-phishing#readme",
+  "homepage": "https://github.com/MediaComem/exploit-phishing#readme",
   "dependencies": {
     "prettier": "^2.4.1"
   }
